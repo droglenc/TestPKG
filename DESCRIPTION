@@ -1,0 +1,13 @@
+Package: TestPKG
+Title: A test package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Derek", "Ogle", , "DerekOgle51@gmail.com", role = c("aut", "cre"))
+Description: Using this to test Quarto articles.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    quarto
+Config/Needs/website: quarto

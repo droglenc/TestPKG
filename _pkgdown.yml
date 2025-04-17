@@ -1,0 +1,10 @@
+url: ~
+
+title: Test Package
+
+authors:
+  Derek H. Ogle:
+
+template:
+  bootstrap: 5
+  bootswatch: flatly

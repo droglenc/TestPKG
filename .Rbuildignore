@@ -1,0 +1,10 @@
+^TestPKG\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^vignettes/articles/\.quarto$
+^vignettes/articles/*_files$
+^vignettes/articles$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$

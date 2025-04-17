@@ -1,0 +1,14 @@
+---
+title: "test_article"
+knitr:
+  opts_chunk:
+    collapse: true
+    comment: '#>'
+---
+
+```{r}
+#| label: setup
+library(TestPKG)
+```
+
+This is a test package with one function that writes this -- `r your_name("Derek")`.
